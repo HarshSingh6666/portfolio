@@ -274,7 +274,7 @@ export const projects = [
     date: "21 March 2025 - 5 May 2025",
     description:
       " Airbnb is a global online marketplace for accommodations, unique experiences, and other tourism-related services that connects hosts and guests through its website and mobile app",
-    image:" https://s3-alpha.figma.com/hub/file/3531186424/227cf7e3-a26a-4ec4-934e-0b6d88ddc8c0-cover.png",
+    image:"https://avatars.githubusercontent.com/u/698437?s=280&v=4",
     tags: [
       " Html,Css,JavaScript",
       " BootStrap",
